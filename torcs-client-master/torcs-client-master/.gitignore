@@ -1,0 +1,17 @@
+test/.cache
+__pycache__/
+drivelogs/
+output/
+.idea/
+neat-checkpoint-*
+neat-*/
+training-data/
+models/models/
+fitnessFile
+neat/
+*.pdf
+neatReport.txt
+roadmap
+.~lock.*
+neat-python-master/
+

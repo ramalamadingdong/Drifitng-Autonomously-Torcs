@@ -1,0 +1,4 @@
+# --only-binary :all:
+# matplotlib
+numpy
+simple_pid
