@@ -165,7 +165,7 @@ class Client():
             sys.exit(-1)
 
     def get_servers_input(self):
-        '''Server's input is stored in a ServerState object'''
+    	
         if not self.so: return
         sockdata = bytes()
         while True:
